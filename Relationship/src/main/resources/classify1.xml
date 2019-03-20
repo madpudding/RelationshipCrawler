@@ -1,0 +1,3217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：A 马克思主义  -->
+    <node>
+        <classify>马克思主义-A3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aA+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22A3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：B 哲学宗教  -->
+    <node>
+        <classify>哲学宗教-B6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aB+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22B6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：C 社会科学  -->
+    <node>
+        <classify>社会科学-C5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aC+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22C5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D92</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D92*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D91</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D91*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D90</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D90*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D99</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D99*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D63</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D63*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D61</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D61*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D64</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D64*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D62</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D62*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D66</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D66*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D60</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D60*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D69</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D69*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D67</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D67*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D65</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D65*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-DF</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22DF*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：D 政治法律  -->
+    <node>
+        <classify>政治法律-D1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aD+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22D1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：E 军事  -->
+    <node>
+        <classify>军事-E2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aE+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22E2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：E 军事  -->
+    <node>
+        <classify>军事-E9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aE+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22E9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：E 军事  -->
+    <node>
+        <classify>军事-E8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aE+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22E8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：E 军事  -->
+    <node>
+        <classify>军事-E0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aE+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22E0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：E 军事  -->
+    <node>
+        <classify>军事-E1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aE+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22E1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：F 经济  -->
+    <node>
+        <classify>经济-F6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aF+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22F6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：G 文化科学  -->
+    <node>
+        <classify>文化科学-G0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aG+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22G0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：H 语言文字  -->
+    <node>
+        <classify>语言文字-H9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aH+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22H9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：I 文学  -->
+    <node>
+        <classify>文学-I2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aI+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22I2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：I 文学  -->
+    <node>
+        <classify>文学-I1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aI+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22I1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：I 文学  -->
+    <node>
+        <classify>文学-I0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aI+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22I0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：J 艺术  -->
+    <node>
+        <classify>艺术-J1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aJ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22J1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：K 历史地理  -->
+    <node>
+        <classify>历史地理-K6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aK+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22K6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N0</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N0*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：N 自然科学  -->
+    <node>
+        <classify>自然科学-N6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aN+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22N6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：O 数理科学化学  -->
+    <node>
+        <classify>数理科学化学-O6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aO+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22O6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：O 数理科学化学  -->
+    <node>
+        <classify>数理科学化学-O1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aO+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22O1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：O 数理科学化学  -->
+    <node>
+        <classify>数理科学化学-O4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aO+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22O4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：O 数理科学化学  -->
+    <node>
+        <classify>数理科学化学-O3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aO+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22O3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：O 数理科学化学  -->
+    <node>
+        <classify>数理科学化学-O7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aO+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22O7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：P 天文学  -->
+    <node>
+        <classify>天文学-P1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aP+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22P1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Q 生物科学  -->
+    <node>
+        <classify>生物科学-Q6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aQ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Q6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：R 医学卫生  -->
+    <node>
+        <classify>医学卫生-R8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aR+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22R8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：S 农业科学  -->
+    <node>
+        <classify>农业科学-S3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aS+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22S3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TP</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TP*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TU</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TU*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TS</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TS*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TN</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TN*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TQ</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TQ*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TM</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TM*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TV</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TV*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TG</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TG*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TH</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TH*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TD</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TD*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TE</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TE*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TB</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TB*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TK</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TK*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TF</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TF*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TJ</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TJ*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：T 工业技术  -->
+    <node>
+        <classify>工业技术-TL</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aT+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22TL*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：U 交通运输  -->
+    <node>
+        <classify>交通运输-U4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aU+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22U4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：U 交通运输  -->
+    <node>
+        <classify>交通运输-U2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aU+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22U2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：U 交通运输  -->
+    <node>
+        <classify>交通运输-U6</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aU+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22U6*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：U 交通运输  -->
+    <node>
+        <classify>交通运输-U1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aU+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22U1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：V 航空航天  -->
+    <node>
+        <classify>航空航天-V2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aV+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22V2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：V 航空航天  -->
+    <node>
+        <classify>航空航天-V4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aV+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22V4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：V 航空航天  -->
+    <node>
+        <classify>航空航天-V1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aV+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22V1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X7</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X7*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X5</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X5*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X1</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X1*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X8</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X8*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X3</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X3*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X9</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X9*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X2</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X2*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：X 环境科学  -->
+    <node>
+        <classify>环境科学-X4</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aX+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22X4*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+    <!-- 万方网期刊具体分类：Z 综合性图书  -->
+    <node>
+        <classify>综合性图书-Z</classify>
+        <url>http://s.g.wanfangdata.com.cn/Paper.aspx?q=</url>
+        <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</Accept>
+        <Accept_Encoding>gzip, deflate</Accept_Encoding>
+        <Acccept_Language>zh-CN,zh;q=0.9,en;q=0.8</Acccept_Language>
+        <Host>s.g.wanfangdata.com.cn</Host>
+        <Connection>keep-alive</Connection>
+        <Referer>http://c.oldg.wanfangdata.com.cn/Periodical.aspx</Referer>
+        <Upgrade_Insecure_Requests>1</Upgrade_Insecure_Requests>
+        <User_Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36</User_Agent>
+        <q>clcnumber%3aZ+%e5%88%86%e7%b1%bb%e5%8f%b7%3a%22Z*%22+DBID%3aWF_QK</q>
+        <f>&amp;f=c.Periodical</f>
+        <p>&amp;p=</p>
+        <number>0</number>
+        <number_xpath>//*[@class='totalRecords']//text()</number_xpath>
+    </node>
+
+
+
+</root>

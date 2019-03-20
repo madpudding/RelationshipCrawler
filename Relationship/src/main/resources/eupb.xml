@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A22</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A23</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A24</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A41</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A42</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A43</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A44</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A45</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A46</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A47</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A61</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A62</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A63</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：A 人类生活必需  -->
+    <node>
+        <classify>A99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B06</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B07</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B08</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B09</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B22</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B23</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B24</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B25</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B26</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B27</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B28</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B29</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B30</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B31</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B32</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B41</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B42</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B43</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B44</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B60</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B61</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B62</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B63</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B64</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B65</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B66</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B67</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B68</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B81</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B82</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：B 作业：运输  -->
+    <node>
+        <classify>B99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C06</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C07</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C08</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C09</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C10</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C11</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C12</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C13</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C14</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C23</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C25</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C30</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C40</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：C 化学：冶金  -->
+    <node>
+        <classify>C99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D06</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D07</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：D 纺织：造纸  -->
+    <node>
+        <classify>D99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E06</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：E 固定建筑物 -->
+    <node>
+        <classify>E99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F15</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F16</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F17</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F22</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F23</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F24</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F25</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F26</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F27</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F28</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F41</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F42</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：F 机械工程  -->
+    <node>
+        <classify>F99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G06</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G07</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G08</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G09</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G10</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G11</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G12</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G21</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：G 物理  -->
+    <node>
+        <classify>G99</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H01</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H02</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H03</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H04</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H05</classify>
+        <number>0</number>
+    </node>
+
+    <!-- 中国专利局：H 电学  -->
+    <node>
+        <classify>H99</classify>
+        <number>0</number>
+    </node>
+
+</root>
